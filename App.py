@@ -453,6 +453,6 @@ if st.session_state.is_admin:
 st.markdown("---")
 st.markdown(
     '<div style="text-align:center;color:rgba(255,255,255,.25);font-size:.78rem;padding:10px 0">'
-    'מערכת ניהול תורנויות • גזרה אזרחית'
+    'מערכת ניהול תורנויות • גזרה אזרחית \n נוצר על ידי ניתאי כהן'
     '</div>', unsafe_allow_html=True
 )
