@@ -455,7 +455,7 @@ st.markdown(
     """
     <div style="text-align:center; color:rgba(255,255,255,.25); font-size:.78rem; padding:10px 0; direction:rtl;">
         מערכת ניהול תורנויות • גזרה אזרחית <br>
-        נוצר על ידי ניתאי כהן
+        נוצר על ידי ניתאי כהן • <span style="white-space: nowrap;">053-4444494</span>
     </div>
     """, 
     unsafe_allow_html=True
